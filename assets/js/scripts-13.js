@@ -1,0 +1,1 @@
+$( document ).ready(function() { t396_init('418825048');});

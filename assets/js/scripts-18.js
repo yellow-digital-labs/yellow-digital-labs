@@ -1,0 +1,1 @@
+$(document).ready(function(){ $("#rec419072131").attr('data-animationappear','off'); $("#rec419072131").css('opacity','1'); setTimeout(function(){ t390_initPopup('419072131'); }, 500);});
